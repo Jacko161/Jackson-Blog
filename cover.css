@@ -80,8 +80,11 @@ body {
 }
 
 .cover-container {
-    min-width: 42em;
     max-width: 42em;
+}
+
+.github-card{
+    background: transparent;
 }
 
 
