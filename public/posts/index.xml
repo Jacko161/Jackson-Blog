@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hello Friend</title>
+        <link>https://jacksonfleming.dev/posts/</link>
+        <description>Recent content on Hello Friend</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-au</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://jacksonfleming.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My Go Journey</title>
+            <link>https://jacksonfleming.dev/posts/post_two/</link>
+            <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+            
+            <guid>https://jacksonfleming.dev/posts/post_two/</guid>
+            <description>I decided to start learning Go in March 2017.
+Follow my journey through this new blog.</description>
+            <content type="html"><![CDATA[<p>I decided to start learning Go in March 2017.</p>
+<p>Follow my journey through this new blog.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My Go Journey</title>
+            <link>https://jacksonfleming.dev/posts/hello_world/</link>
+            <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+            
+            <guid>https://jacksonfleming.dev/posts/hello_world/</guid>
+            <description>I decided to start learning Go in March 2017.
+Follow my journey through this new blog.</description>
+            <content type="html"><![CDATA[<p>I decided to start learning Go in March 2017.</p>
+<p>Follow my journey through this new blog.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
