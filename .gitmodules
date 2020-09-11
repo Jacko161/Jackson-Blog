@@ -4,4 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/jacko161/jacko161.github.io.git
-	branch = test
+	branch = testing
