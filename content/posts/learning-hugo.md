@@ -18,7 +18,7 @@ hugo new <site name> .
 git init
 ```
 
-Finding a theme (I recommend using https://themes.gohugo.io/ to find something, so many choices. I landed at https://themes.gohugo.io/hugo-papermod/ or )
+Finding a theme (I recommend using https://themes.gohugo.io/ to find something, so many choices. I landed at https://themes.gohugo.io/hugo-papermod/) and importing the theme as a submodule `git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1` and setting `theme: PaperMod` in my config.yaml file.
 
 and setting up the netlify config ( which is in the source repo for this, feel free to steal it https://github.com/Jacko161/Jackson-Blog/blob/master/netlify.toml ).
 
