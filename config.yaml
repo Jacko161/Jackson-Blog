@@ -54,7 +54,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog, I'll probably write about software engineering, games or something equally nerdy.
+        Content: Welcome to my blog, I'll probably write about software engineering, games or something equally nerdy. I believe strongly in Open Source Software, so this blogs source is available, for all to see at https://github.com/Jacko161/Jackson-Blog.
 
     socialIcons:
         - name: Linkedin
