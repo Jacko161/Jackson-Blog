@@ -10,7 +10,7 @@ draft: false
 
 I've always been interested in blogging (see my previous wordpress blog for when I would write about what games I was playing, https://weeklygameblog.wordpress.com), but the time/money cost of maintaining a wordpress blog, for what is essentially is a static site was always a little bit over the top. Not to mention, wordpress isn't really the latest and greatest in blogging techonlogies. Recently I learnt about Hugo, and started to play with netlify, after a few iterations (and months of down time), I came up with this blog.
 
-What did I do to get here though? I am running a macbook, so it was as simple as: 
+What did I do to get here though? I am running MacOS, so it was as simple as: 
 
 ```shell
 brew install hugo

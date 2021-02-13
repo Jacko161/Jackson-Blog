@@ -55,7 +55,7 @@ params:
     homeInfoParams:
         Title: "Hi there \U0001F44B"
         Content: "Welcome to my blog, 
-        I'll probably write about software engineering, games or something equally nerdy. 
+        I'll probably write about software engineering, games or something equally nerdy that I enjoy. 
         I believe in open source software, so the source for this site is avaiable 
         for all to see at https://github.com/Jacko161/Jackson-Blog."
 
