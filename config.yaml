@@ -56,7 +56,7 @@ params:
         Title: "Hi there \U0001F44B"
         Content: "Welcome to my blog, 
         I'll probably write about software engineering, games or something equally nerdy. 
-        I believe strongly in Open Source Software, so the source for this site is avaiable 
+        I believe in open source software, so the source for this site is avaiable 
         for all to see at https://github.com/Jacko161/Jackson-Blog."
 
     socialIcons:
@@ -66,8 +66,6 @@ params:
           url: "https://github.com/Jacko161"
         - name: Reddit
           url: "https://www.reddit.com/user/jacko161/"
-        - name: Email
-          url: "mailto:dev@jacksonfleming.dev"
 
     cover:
         hidden: true # hide everywhere but not in structured data

@@ -18,6 +18,8 @@ hugo new <site name> .
 git init
 ```
 
-and setting up the netlify config (which is in the source repo for this, feel free to steal it https://github.com/Jacko161/Jackson-Blog/blob/master/netlify.toml).
+Finding a theme (I recommend using https://themes.gohugo.io/ to find something, so many choices. I landed at https://themes.gohugo.io/hugo-papermod/ or )
+
+and setting up the netlify config ( which is in the source repo for this, feel free to steal it https://github.com/Jacko161/Jackson-Blog/blob/master/netlify.toml ).
 
 I've configured to auto deploy the site with each push to the master branch, this means no messing around with saving or logging into a crappy page editor. Just write some markdown, and run a  `git push`, easy as!
